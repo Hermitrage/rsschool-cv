@@ -51,6 +51,6 @@ function counterEffect(hitCount) {
  * Belarusian - Native
  * English - B1
    
-   ![EFSet English Test](https://github.com/Hermitrage/rsschool-cv/blob/eb4b850c5df1698ab2d62111ea4366f089dffbfe/EFset.png)
-   
+   ![EFset English Test](https://github.com/Hermitrage/rsschool-cv/assets/27925034/2df2d92b-7146-41f0-8b55-ed3f4c12e58c)
+
 
