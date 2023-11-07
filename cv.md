@@ -49,8 +49,6 @@ function counterEffect(hitCount) {
 # Languages
  * Russian - Native
  * Belarusian - Native
- * English - B1
-   
-   ![EFset English Test](https://github.com/Hermitrage/rsschool-cv/assets/27925034/2df2d92b-7146-41f0-8b55-ed3f4c12e58c)
+ * English - B1 (EFset English Test)
 
 
