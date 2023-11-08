@@ -1,1 +1,1 @@
-# [rsschool-cv](https://hermitrage.github.io/rsschool-cv/cv)
+# [rsschool-cv](https://hermitrage.github.io/rsschool-cv/)
